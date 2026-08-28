@@ -3,8 +3,7 @@
   <h1>Hey there, I'm Ramanarayanan 👋</h1>
   
   <p>
-    <b>Electronics & Communication Engineering Student @ Rajalakshmi Engineering College</b><br>
-    <i>Bridging the gap between hardware, sensors, and intelligent software</i>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=ECE+Student+%40+Rajalakshmi+Engineering+College;Electronics+%7C+IoT+%7C+Embedded+Systems;AI-Assisted+Software+Development;Bridging+Hardware+and+Intelligent+Software" alt="Typing SVG" /></a>
   </p>
 
   <p>
