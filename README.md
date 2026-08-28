@@ -10,6 +10,10 @@
     <a href="https://www.linkedin.com/in/ramanarayanan-g-262a51317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/chxndru.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Raman4rayanan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 </div>
 
 ---
@@ -17,6 +21,13 @@
 ### 👨‍💻 About Me
 
 My primary interest lies in building systems where electronics, embedded hardware, sensors, connectivity, and intelligent software work together. I also use **AI-assisted development** to explore software engineering, web development, and technologies beyond my core ECE curriculum.
+
+<br>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Raman4rayanan&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Ramanarayanan's Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -119,3 +130,15 @@ My primary interest lies in building systems where electronics, embedded hardwar
 <div align="center">
   <i>"I love bringing hardware to life with code!"</i>
 </div>
+
+---
+
+### 🐍 Contribution Graph Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raman4rayanan/Raman4rayanan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raman4rayanan/Raman4rayanan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raman4rayanan/Raman4rayanan/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
