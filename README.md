@@ -71,13 +71,13 @@ An **ESP32-based smart safety device** designed to detect LPG/gas leaks and auto
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raman4rayanan&show_icons=true&theme=tokyonight" alt="Ramanarayanan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raman4rayanan&show_icons=true&theme=tokyonight&v=1" alt="Ramanarayanan's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raman4rayanan&theme=tokyonight" alt="Ramanarayanan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raman4rayanan&theme=tokyonight&v=1" alt="Ramanarayanan's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raman4rayanan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raman4rayanan&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
 </p>
 
 ---
