@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Raman4rayanan.png" width="160" height="160" alt="Ramanarayanan">
+  <img src="https://github.com/Raman4rayanan.jpeg" width="160" height="160" alt="Ramanarayanan">
   <h1>Hey there, I'm Ramanarayanan 👋</h1>
   
   <p>
