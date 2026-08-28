@@ -22,13 +22,6 @@
 
 My primary interest lies in building systems where electronics, embedded hardware, sensors, connectivity, and intelligent software work together. I also use **AI-assisted development** to explore software engineering, web development, and technologies beyond my core ECE curriculum.
 
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Raman4rayanan&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Ramanarayanan's Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🏆 Top 5 Repositories
@@ -130,15 +123,3 @@ My primary interest lies in building systems where electronics, embedded hardwar
 <div align="center">
   <i>"I love bringing hardware to life with code!"</i>
 </div>
-
----
-
-### 🐍 Contribution Graph Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raman4rayanan/Raman4rayanan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raman4rayanan/Raman4rayanan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raman4rayanan/Raman4rayanan/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
